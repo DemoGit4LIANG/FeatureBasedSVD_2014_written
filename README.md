@@ -7,4 +7,4 @@ Chen T, Zhang W, Lu Q, et al. SVDFeature: a toolkit for feature-based collaborat
 
 源码中同时包含0-1二值版**经典SVD**和**LinearRegression**的实现作为benchmark。
 
-FeatureBasedMatrixFactorization部分由于当初需要拟合竞赛数组，加入了大量缺省值处理函数，因此稍显凌乱。
+FeatureBasedMatrixFactorization部分由于当初需要拟合竞赛数据，加入了大量缺省值处理函数，因此稍显凌乱。
